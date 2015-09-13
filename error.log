@@ -120,3 +120,33 @@
 [Sun Sep 13 04:06:47 2015] [warn] RSA server certificate CommonName (CN) `52.5.163.54' does NOT match server name!?
 [Sun Sep 13 04:06:47 2015] [notice] Apache/2.2.22 (Debian) PHP/5.4.44-0+deb7u1 mod_ssl/2.2.22 OpenSSL/1.0.1e configured -- resuming normal operations
 [Sun Sep 13 04:15:40 2015] [error] [client 115.117.47.101] File does not exist: /home/admin/dashboard/favicon.ico, referer: http://52.5.163.54/
+[Sun Sep 13 05:28:00 2015] [error] [client 173.252.75.113] File does not exist: /home/admin/dashboard/favicon.ico
+[Sun Sep 13 05:32:27 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Bold.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:32:27 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Thin.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:32:27 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Regular.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:32:27 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Medium.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:32:27 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Light.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:32:45 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Light.woff2") format("woff2"), url(".., referer: http://52.5.163.54/map.html
+[Sun Sep 13 05:32:45 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Thin.woff2") format("woff2"), url(".., referer: http://52.5.163.54/map.html
+[Sun Sep 13 05:32:45 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Regular.woff2") format("woff2"), url(".., referer: http://52.5.163.54/map.html
+[Sun Sep 13 05:32:45 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Medium.woff2") format("woff2"), url(".., referer: http://52.5.163.54/map.html
+[Sun Sep 13 05:32:45 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Bold.woff2") format("woff2"), url(".., referer: http://52.5.163.54/map.html
+[Sun Sep 13 05:33:14 2015] [error] [client 122.160.202.5] File does not exist: /home/admin/dashboard/bower_components, referer: http://52.5.163.54/js.html
+[Sun Sep 13 05:33:14 2015] [error] [client 122.160.202.5] File does not exist: /home/admin/dashboard/elements, referer: http://52.5.163.54/js.html
+[Sun Sep 13 05:33:16 2015] [error] [client 122.160.202.5] File does not exist: /home/admin/dashboard/favicon.ico
+[Sun Sep 13 05:36:13 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Medium.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:36:13 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Regular.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:36:13 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Bold.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:36:13 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Light.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:36:13 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Thin.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:38:40 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Medium.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:38:40 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Thin.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:38:40 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Bold.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:38:40 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Regular.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:38:40 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Light.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:40:00 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Thin.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:40:01 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Bold.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:40:01 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Light.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:40:01 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Medium.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:40:01 2015] [error] [client 117.217.62.210] File does not exist: /home/admin/dashboard/font/roboto/Roboto-Regular.woff2") format("woff2"), url(".., referer: http://52.5.163.54/
+[Sun Sep 13 05:46:16 2015] [error] [client 91.196.50.33] script '/home/admin/dashboard/testproxy.php' not found or unable to stat
